@@ -15,7 +15,7 @@ Je suis **français**  :fr:.
 J'ai 33 ans. 
 
 Je suis   
-& **développeur web écoresponsable** :herb: (les mains dans le code)  
+& **développeur de sites et applications web écoresponsables** :herb: (les mains dans le code)  
 & **consultant en sobriété numérique** :mega: (les yeux dans les yeux)  
 en tant que **freelance**.
 
