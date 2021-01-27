@@ -46,4 +46,6 @@ Rédigez depuis l'Application ; partagez grâce à l'API connectée. [WordsMatte
 
 bookmarker (web extension) | hyperlynx (web extension) |  chess (*bibliothèque*)
 ------------ | ------------- | -------------
-Gagnez en productivité, épargnez la planète. Avec [bookmarker](https://github.com/AwebsomeFr/bookmarker), personnalisez et regroupez instantanément vos bookies (favoris) par dossier, ciblez rapidement vos adresses préférées ou partez à l'assaut du web grâce aux moteurs de recherche intégrés. | Ne soyez plus surpris : [hyperlynx](https://github.com/AwebsomeFr/hyperlynx) identifie pour vous tous les liens pointant vers un domaine étranger au site visité. | Create HTML Elements Short Syntax. Ou [chess](https://github.com/AwebsomeFr/chess), pour les intimes. 
+Gagnez en productivité, épargnez la planète. Avec [bookmarker](https://github.com/AwebsomeFr/bookmarker), personnalisez et regroupez instantanément vos bookies (favoris) par dossier, ciblez rapidement vos adresses préférées ou partez à l'assaut du web grâce aux moteurs de recherche intégrés. | Ne soyez plus surpris : [hyperlynx](https://github.com/AwebsomeFr/hyperlynx) identifie pour vous tous les liens pointant vers un domaine étranger au site visité. | Create HTML Elements Short Syntax. Ou [chess](https://github.com/AwebsomeFr/chess), pour les intimes.
+
+*Note : Le README et la documentations de chaque projet est généralement rédigé en français, parfois traduit en anglais. Son code source est exclusivement commenté en anglais.* 
