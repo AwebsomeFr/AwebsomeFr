@@ -5,8 +5,9 @@
 ![Awebsome](https://media-exp1.licdn.com/dms/image/C4D16AQE1nl5Dpm-0bQ/profile-displaybackgroundimage-shrink_200_800/0/1591301085834?e=1617235200&v=beta&t=8SwV2l2DmThiTvLFCxPPi-U97mWiEzIVAIkuiA9OeHA)
 
 1. [About me](#about-me)
-2. [Works that matter](#works-that-matter)
-3. [Other works](#other-works)
+2. [Works](#works)
+    - [Ecoresponsible alternatives](#ecoresponsible-alternatives)
+    - [Various](#various) 
 
 ## About me
 
@@ -31,25 +32,20 @@ Want to know more ?
 - Take a break to [read the Awebsome's blog](https://awebsome.fr/blog-awebsome/) (fr).  
 - Join [my network on LinkedIn](https://www.linkedin.com/in/julien-wilhelm/).
 
-## Works that matter
+## Works
+
+### Ecoresponsible alternatives
 
 In parallel, I created two very different *side projects*, but sharing the same goal: to be, in their respective fields, **a powerful alternative to other technically disproportionate solutions**.
 
-### (BLOG) WordsMatter
-> Write from the web application; share with the API. WordsMatter is a 100% autonomous, open-source and free blog management module. Its efficiency makes it an eco-responsible alternative to traditional content management systems (CMS).
-
-### (CLOUD) cirrus
-> A cirrus cloud is a type of cloud having inherited its Latin name from the shape it recalls, that of a curl of hair. Beyond the poetic aspect, cirrus is the ideal acronym for the Integrated, Responsible and Resilient Cloud project for Sagaces Users carried by Awebsome. 
-
-(private for now)
+WordsMatter | cirrus
+------------ | -------------
+Write from the web application; share with the API. WordsMatter is a 100% autonomous, open-source and free blog management module. Its efficiency makes it an eco-responsible alternative to traditional content management systems (CMS). | A cirrus cloud is a type of cloud having inherited its Latin name from the shape it recalls, that of a curl of hair. Beyond the poetic aspect, cirrus is the ideal acronym for the Integrated, Responsible and Resilient Cloud project for Sagaces Users carried by Awebsome. (private for now)
 
 ## Other works
 
-### bookmarker (web extension)
-> Increase productivity, save the planet. With [bookmarker](https://github.com/AwebsomeFr/bookmarker), personalize and group your bookmakers (favorites) by folder, quickly target your favorite addresses or access to the web with the integrated search engines.
+bookmarker (web extension) | hyperlynx (web extension) |  chess (*librairy*)
+------------ | ------------- | -------------
+Increase productivity, save the planet. With [bookmarker](https://github.com/AwebsomeFr/bookmarker), personalize and group your bookmakers (favorites) by folder, quickly target your favorite addresses or access to the web with the integrated search engines. | Don't be surprised anymore: [hyperlynx](https://github.com/AwebsomeFr/hyperlynx) identifies for you any hyperlink pointing to a domain outside the visited site. | Create HTML Elements Short Syntax. Or [chess](https://github.com/AwebsomeFr/chess), for close friends. 
 
-### hyperlynx (web extension)
-> Don't be surprised anymore: [hyperlynx](https://github.com/AwebsomeFr/hyperlynx) identifies for you any hyperlink pointing to a domain outside the visited site. 
-
-### chess (*librairy*)
-> Create HTML Elements Short Syntax. Or [chess](https://github.com/AwebsomeFr/chess), for close friends. 
+*Note : the README et the documentation for each project are generally written in french, sometimes translated into english. The source code is commented in english only.* 
