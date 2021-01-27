@@ -4,11 +4,12 @@
 
 ![Awebsome](https://media-exp1.licdn.com/dms/image/C4D16AQE1nl5Dpm-0bQ/profile-displaybackgroundimage-shrink_200_800/0/1591301085834?e=1617235200&v=beta&t=8SwV2l2DmThiTvLFCxPPi-U97mWiEzIVAIkuiA9OeHA)
 
-1. [A propos de moi](#a-propos-de-moi)
-2. [Des travaux qui ont du sens](#des-travaux-qui-ont-du-sens)
-3. [Autres travaux](#autres-travaux)
+1. [Mon profil](#mon-profil)
+2. [Mes travaux](#mes-travaux)
+    - [Alternatives écoresponsables](#alternatives-écoresponsables)
+    - [Travaux divers](#travaux-divers)
 
-## A propos de moi
+## Mon profil
 
 Je m'appelle Julien Wilhelm.  
 Je suis **français**  :fr:.  
@@ -31,25 +32,27 @@ Envie d'en savoir plus ?
 - Prenez un moment pour [lire le blog Awebsome](https://awebsome.fr/blog-awebsome/).  
 - Rejoignez [mon réseau LinkedIn](https://www.linkedin.com/in/julien-wilhelm/).
 
-## Des travaux qui ont du sens
+## Mes travaux
+
+### Alternatives écoresponsables
 
 En parallèle de mes missions, j'ai créé deux *side projects* bien différents, mais partageant un même but : être, dans leur domaine respectif, **une alternative performante à d'autres solutions techniquement disproportionnées**.
 
-### (BLOG) WordsMatter
+#### (BLOG) WordsMatter
 > Rédigez depuis l'Application ; partagez grâce à l'API connectée. [WordsMatter](https://github.com/AwebsomeFr/WordsMatter) est un module de gestion de blog 100% autonome, libre et gratuit. Son efficience en fait une alternative écoresponsable aux Systèmes de Gestion de Contenu traditionnels (CMS).
 
-### (CLOUD) cirrus
+#### (CLOUD) cirrus
 > Un cirrus est un type de nuage ayant hérité son nom latin de la forme qu'il rappelle, celle d'une boucle de cheveux. Au-delà de l'aspect poétique, cirrus est l'acronyme idéal du projet de Cloud Intègre, Responsable et Résilient pour Utilisateurs Sagaces porté par Awebsome.
 
 (dépôt actuellement privé)
 
-## Autres travaux
+### Travaux divers
 
-### bookmarker (web extension)
+#### bookmarker (web extension)
 > Gagnez en productivité, épargnez la planète. Avec [bookmarker](https://github.com/AwebsomeFr/bookmarker), personnalisez et regroupez instantanément vos bookies (favoris) par dossier, ciblez rapidement vos adresses préférées ou partez à l'assaut du web grâce aux moteurs de recherche intégrés.
 
-### hyperlynx (web extension)
+#### hyperlynx (web extension)
 > Ne soyez plus surpris : [hyperlynx](https://github.com/AwebsomeFr/hyperlynx) identifie pour vous tous les liens pointant vers un domaine étranger au site visité.
 
-### chess (*bibliothèque*)
+#### chess (*bibliothèque*)
 > Create HTML Elements Short Syntax. Ou [chess](https://github.com/AwebsomeFr/chess), pour les intimes. 
