@@ -7,7 +7,7 @@
 1. [About me](#about-me)
 2. [Works](#works)
     - [Ecoresponsible alternatives](#ecoresponsible-alternatives)
-    - [Various](#various) 
+    - [Other works](#other-works) 
 
 ## About me
 
