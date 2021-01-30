@@ -24,7 +24,19 @@ My job reflects some **values** that matter for me.
 
 With [Awebsome](https://awebsome.fr), I defend **sobriety** (development, use), **inclusion** (accessibility) and **digital diversity** (free software, open source). I design **eco-responsible web solutions** for any type of structure wishing to embark on the path of responsible 🌿️, efficient 🚀️ and resilient 🛡️ digital. I also intervene, outside the code and in different forms (**audits & speed audits, conferences, training**), in order to make as many people as possible aware of the **environmental and societal challenges of digital technology**. 
 
-Installed in **Brittany**, my clients are **locals** et **europeans**. 
+Installed in **Brittany**, my clients are **locals** et **europeans**.
+
+Mes services :
+- 🌱️ Advice to professionals on eco-responsible web solutions. 
+- 🚀 Front-end / back-end development of customized and efficient websites and web applications. 
+- 🎙️ Conferences / Awareness around Responsible Digital and Digital Sobriety issues.
+- 🔎 Web audits.
+
+Mes plus-values :
+- 👌 A strong appetite for a job well done.
+- 💪 Many transversal skills.
+- 🤝 Appreciable human qualities.
+- 👂 An exemplary availability.
 
 Want to know more ?
 
