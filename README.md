@@ -26,6 +26,18 @@ Avec [Awebsome](https://awebsome.fr), je défends la **sobriété** (développem
 
 Installé en **Région Bretagne**, mes clients sont à la fois **locaux** et **européens**. 
 
+Mes services :
+- 🌱️ Conseil aux professionnels en matière de solutions web écoresponsables.
+- 🚀 Développement front-end / back-end de sites et applications web sur mesure et efficients.
+- 🎙️ Conférences / Sensibilisation autour du Numérique Responsable et des enjeux de Sobriété Numérique.
+- 🔎 Audits web.
+
+Mes plus-values :
+- 👌 Une forte appétence pour le travail bien fait.
+- 💪 De nombreuses compétences transversales.
+- 🤝 Des qualités humaines appréciables.
+- 👂 Une disponibilité exemplaire.
+ 
 Envie d'en savoir plus ?
 
 - Rendez-vous sur [Awebsome.fr](https://awebsome.fr).  
