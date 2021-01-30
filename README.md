@@ -16,8 +16,8 @@ Je suis **français**  :fr:.
 J'ai 33 ans. 
 
 Je suis   
-& **développeur de sites et applications web écoresponsables** :herb: (les mains dans le code)  
-& **consultant en sobriété numérique** :mega: (les yeux dans les yeux)  
+& **développeur de sites et applications web écoresponsables** :computer: (les mains dans le code)  
+& **consultant en sobriété numérique** :eyeglasses: (les yeux dans les yeux)  
 en tant que **freelance**.
 
 Mon métier est le reflet de **valeurs** qui me sont chères. 
