@@ -16,8 +16,8 @@ I am **french** :fr:.
 I'm 33.
 
 I am   
-& **ecoresponsible web developer** :herb: (hands in code)  
-& **consultant in digital sobriety** :mega: (eye to eye)  
+& **ecoresponsible web developer** :computer: (hands in code)  
+& **consultant in digital sobriety** :eyeglasses: (eye to eye)  
 as a **freelance**.
 
 My job reflects some **values** that matter for me. 
