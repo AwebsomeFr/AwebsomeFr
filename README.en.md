@@ -30,7 +30,7 @@ Mes services :
 - 🌱️ Advice to professionals on eco-responsible web solutions. 
 - 🚀 Front-end / back-end development of customized and efficient websites and web applications. 
 - 🎙️ Conferences / Awareness around Responsible Digital and Digital Sobriety issues.
-- 🔎 Web audits.
+- 🔎 Web audits (technical efficiency & performance, overall accessibility & ergonomics). 
 
 Mes plus-values :
 - 👌 A strong appetite for a job well done.

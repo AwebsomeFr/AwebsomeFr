@@ -30,7 +30,7 @@ Mes services :
 - 🌱️ Conseil aux professionnels en matière de solutions web écoresponsables.
 - 🚀 Développement front-end / back-end de sites et applications web sur mesure et efficients.
 - 🎙️ Conférences / Sensibilisation autour du Numérique Responsable et des enjeux de Sobriété Numérique.
-- 🔎 Audits web.
+- 🔎 Audits web transversaux (efficience & performance techniques, accessibilité & ergonomie globales).
 
 Mes plus-values :
 - 👌 Une forte appétence pour le travail bien fait.
