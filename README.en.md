@@ -56,8 +56,8 @@ Write from the web application; share with the API. WordsMatter is a 100% autono
 
 ## Other works
 
-bookmarker (web extension) | hyperlynx (web extension) |  chess & ghess (*librairies*)
------------- | ------------- | -------------
-Increase productivity, save the planet. With [bookmarker](https://github.com/AwebsomeFr/bookmarker), personalize and group your bookmakers (favorites) by folder, quickly target your favorite addresses or access to the web with the integrated search engines. | Don't be surprised anymore: [hyperlynx](https://github.com/AwebsomeFr/hyperlynx) identifies for you any hyperlink pointing to a domain outside the visited site. | [chess : Create HTML Elements Short Syntax](https://github.com/AwebsomeFr/chess) / [ghess : Get HTML Elements Short Syntax](https://github.com/AwebsomeFr/ghess). 
+bookmarker (web extension) | hyperlynx (web extension)
+------------ | -------------
+Increase productivity, save the planet. With [bookmarker](https://github.com/AwebsomeFr/bookmarker), personalize and group your bookmakers (favorites) by folder, quickly target your favorite addresses or access to the web with the integrated search engines. | Don't be surprised anymore: [hyperlynx](https://github.com/AwebsomeFr/hyperlynx) identifies for you any hyperlink pointing to a domain outside the visited site.
 
 *Note : the README et the documentation for each project are generally written in french, sometimes translated into english. The source code is commented in english only.* 
