@@ -1,63 +1,34 @@
 [Read the english translation](README.en.md)  :gb:
 
-# Julien Wilhelm | Awebsome
+![Awebsome](https://awebsome.fr/static/julien-wilhelm-awebsome-logo-2.png)
 
-![Awebsome](https://media-exp1.licdn.com/dms/image/C4D16AQE1nl5Dpm-0bQ/profile-displaybackgroundimage-shrink_200_800/0/1591301085834?e=1617235200&v=beta&t=8SwV2l2DmThiTvLFCxPPi-U97mWiEzIVAIkuiA9OeHA)
+Je m'appelle Julien Wilhelm. **Créateur de sites/applications web écoresponsables** & **Consultant en sobriété numérique** en tant que **freelance**, mon métier est le reflet de valeurs qui me sont chères. 
 
-1. [Mon profil](#mon-profil)
-2. [Mes travaux](#mes-travaux)
-    - [Alternatives écoresponsables](#alternatives-écoresponsables)
-    - [Travaux divers](#travaux-divers)
+Avec [Awebsome](https://awebsome.fr), je défends la **sobriété**, l'**inclusion** et la **diversité numérique**. Je conçois des **solutions web écoresponsables** auprès de tout type de structure souhaitant s'engager sur la voie d'un Numérique responsable 🌿️, performant 🚀️ et résilient 🛡️. J'interviens aussi, en dehors du code et sous différentes formes, afin de sensibiliser le plus grand nombre aux **enjeux environnementaux et sociétaux du Numérique**.
 
-## Mon profil
-
-Je m'appelle Julien Wilhelm.  
-Je suis **français**  :fr:.  
-J'ai 33 ans. 
-
-Je suis   
-& **développeur de sites et applications web écoresponsables** :computer: (les mains dans le code)  
-& **consultant en sobriété numérique** :eyeglasses: (les yeux dans les yeux)  
-en tant que **freelance**.
-
-Mon métier est le reflet de **valeurs** qui me sont chères. 
-
-Avec [Awebsome](https://awebsome.fr), je défends la **sobriété** (développement, usage), l'**inclusion** (accessibilité) et la **diversité numérique** (logiciel libre, open source). Je conçois des **solutions web écoresponsables** auprès de tout type de structure souhaitant s'engager dans la voie d'un Numérique responsable 🌿️, performant 🚀️ et résilient 🛡️. J'interviens aussi, en dehors du code et sous différentes formes (**audits & speed audits, conférences, formation**), afin de sensibiliser le plus grand nombre aux **enjeux environnementaux et sociétaux du Numérique**.
-
-Installé en **Région Bretagne**, mes clients sont à la fois **locaux** et **européens**. 
+Installé en **Région Bretagne**, mes clients sont aussi bien **locaux** et **européens**. 
 
 Mes services :
 - 🌱️ Conseil aux professionnels en matière de solutions web écoresponsables.
 - 🚀 Développement front-end / back-end de sites et applications web sur mesure et efficients.
 - 🎙️ Conférences / Sensibilisation autour du Numérique Responsable et des enjeux de Sobriété Numérique.
 - 🔎 Audits web transversaux (efficience & performance techniques, accessibilité & ergonomie globales).
+- ☁️ Installateur cirrus | Cloud Intègre, Responsable et Résilient pour Utilisateurs Sagaces.
 
 Mes plus-values :
 - 👌 Une forte appétence pour le travail bien fait.
 - 💪 De nombreuses compétences transversales.
 - 🤝 Des qualités humaines appréciables.
 - 👂 Une disponibilité exemplaire.
+
+En parallèle, je suis en charge de deux projets bien différents, mais partageant un même but : être, dans leur domaine respectif, **une alternative performante à d'autres solutions web techniquement disproportionnées**.
+
+WordsMatter | cirrus
+------------ | -------------
+_Rédigez depuis l'Application ; partagez grâce à l'API connectée. [WordsMatter](https://github.com/AwebsomeFr/WordsMatter) est un module de gestion de blog 100% autonome, libre et gratuit. Son efficience en fait une alternative écoresponsable aux Systèmes de Gestion de Contenu traditionnels (CMS)._ | _Un cirrus est un type de nuage ayant hérité son nom latin de la forme qu'il rappelle, celle d'une boucle de cheveux. Au-delà de l'aspect poétique, cirrus est l'acronyme idéal du projet de Cloud Intègre, Responsable et Résilient pour Utilisateurs Sagaces porté par Awebsome._ [cirrus](https://github.com/AwebsomeFr/cirrus)
  
-Envie d'en savoir plus ?
+Pour aller plus loin :
 
 - Rendez-vous sur [Awebsome.fr](https://awebsome.fr).  
 - Prenez un moment pour [lire le blog Awebsome](https://awebsome.fr/blog-awebsome/).  
 - Rejoignez [mon réseau LinkedIn](https://www.linkedin.com/in/julien-wilhelm/).
-
-## Mes travaux
-
-### Alternatives écoresponsables
-
-En parallèle de mes missions, j'ai créé deux *side projects* bien différents, mais partageant un même but : être, dans leur domaine respectif, **une alternative performante à d'autres solutions techniquement disproportionnées**.
-
-WordsMatter | cirrus
------------- | -------------
-Rédigez depuis l'Application ; partagez grâce à l'API connectée. [WordsMatter](https://github.com/AwebsomeFr/WordsMatter) est un module de gestion de blog 100% autonome, libre et gratuit. Son efficience en fait une alternative écoresponsable aux Systèmes de Gestion de Contenu traditionnels (CMS). | Un cirrus est un type de nuage ayant hérité son nom latin de la forme qu'il rappelle, celle d'une boucle de cheveux. Au-delà de l'aspect poétique, cirrus est l'acronyme idéal du projet de Cloud Intègre, Responsable et Résilient pour Utilisateurs Sagaces porté par Awebsome. (dépôt actuellement privé)
-
-### Travaux divers
-
-bookmarker (web extension) | hyperlynx (web extension)
------------- | -------------
-Gagnez en productivité, épargnez la planète. Avec [bookmarker](https://github.com/AwebsomeFr/bookmarker), personnalisez et regroupez instantanément vos bookies (favoris) par dossier, ciblez rapidement vos adresses préférées ou partez à l'assaut du web grâce aux moteurs de recherche intégrés. | Ne soyez plus surpris : [hyperlynx](https://github.com/AwebsomeFr/hyperlynx) identifie pour vous tous les liens pointant vers un domaine étranger au site visité.
-
-*Note : Le README et la documentation de chaque projet sont généralement rédigés en français, parfois traduits en anglais. Le code source est exclusivement commenté en anglais.* 
